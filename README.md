@@ -1,13 +1,12 @@
-# Learning-HTML-CSS-EBAC
+# SITE BitHash Solutions
 
 ## Exercise
 
 <p align="center">
-  <img src="./images/img-site.jpeg"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
 Repositório destinado a compartilhar o desenvolvimento inicial de **HTML** e **CSS** em meus estudos na plataforma **EBAC**, utilizando a IDE **VS_CODE**, usando o percurso de ensino da plataforma.
-
 
 VERCEL -> https://site-bit-hash-solutions.vercel.app/
 
@@ -15,7 +14,7 @@ VERCEL -> https://site-bit-hash-solutions.vercel.app/
 ___
 
 <p align="center">
-  <img src="https://github.com/ruannino/EBAC_HTML_CSS/blob/exerc%C3%ADcio_css/Midias/Captura_Visual.jpg?raw=true">
+  <img src="./images/img-site.jpeg">
 </p>
 
 # Autor
